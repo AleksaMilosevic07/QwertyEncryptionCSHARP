@@ -31,9 +31,12 @@
             English = new TextBox();
             Qwerty = new TextBox();
             EncryptButton = new Button();
-            SwapButton = new Button();
             HelpButton = new Button();
             label1 = new Label();
+            ExitButton = new Button();
+            label2 = new Label();
+            errorLabel = new Label();
+            TranslationInfo = new Label();
             SuspendLayout();
             // 
             // English
@@ -43,6 +46,7 @@
             English.Name = "English";
             English.Size = new Size(232, 23);
             English.TabIndex = 0;
+            English.TextChanged += English_TextChanged;
             // 
             // Qwerty
             // 
@@ -51,6 +55,7 @@
             Qwerty.Name = "Qwerty";
             Qwerty.Size = new Size(232, 23);
             Qwerty.TabIndex = 1;
+            Qwerty.TextChanged += Qwerty_TextChanged;
             // 
             // EncryptButton
             // 
@@ -60,24 +65,17 @@
             EncryptButton.TabIndex = 2;
             EncryptButton.Text = "Translate!";
             EncryptButton.UseVisualStyleBackColor = true;
-            // 
-            // SwapButton
-            // 
-            SwapButton.Location = new Point(290, 204);
-            SwapButton.Name = "SwapButton";
-            SwapButton.Size = new Size(60, 23);
-            SwapButton.TabIndex = 3;
-            SwapButton.Text = "Swap!";
-            SwapButton.UseVisualStyleBackColor = true;
+            EncryptButton.Click += EncryptButton_Click;
             // 
             // HelpButton
             // 
-            HelpButton.Location = new Point(437, 204);
+            HelpButton.Location = new Point(356, 323);
             HelpButton.Name = "HelpButton";
-            HelpButton.Size = new Size(60, 23);
+            HelpButton.Size = new Size(75, 23);
             HelpButton.TabIndex = 4;
             HelpButton.Text = "Help?";
             HelpButton.UseVisualStyleBackColor = true;
+            HelpButton.Click += HelpButton_Click;
             // 
             // label1
             // 
@@ -89,20 +87,63 @@
             label1.TabIndex = 5;
             label1.Text = "Welcome to Qwerty Encryption!";
             // 
+            // ExitButton
+            // 
+            ExitButton.Location = new Point(356, 294);
+            ExitButton.Name = "ExitButton";
+            ExitButton.Size = new Size(75, 23);
+            ExitButton.TabIndex = 6;
+            ExitButton.Text = "Exit";
+            ExitButton.UseVisualStyleBackColor = true;
+            ExitButton.Click += ExitButton_Click;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Font = new Font("Tahoma", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            label2.Location = new Point(374, 104);
+            label2.Name = "label2";
+            label2.Size = new Size(35, 16);
+            label2.TabIndex = 7;
+            label2.Text = "v1.0";
+            // 
+            // errorLabel
+            // 
+            errorLabel.AutoSize = true;
+            errorLabel.Font = new Font("Tahoma", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 204);
+            errorLabel.ForeColor = Color.Firebrick;
+            errorLabel.Location = new Point(270, 229);
+            errorLabel.Name = "errorLabel";
+            errorLabel.Size = new Size(0, 23);
+            errorLabel.TabIndex = 8;
+            // 
+            // TranslationInfo
+            // 
+            TranslationInfo.AutoSize = true;
+            TranslationInfo.Location = new Point(290, 136);
+            TranslationInfo.Name = "TranslationInfo";
+            TranslationInfo.Size = new Size(114, 15);
+            TranslationInfo.TabIndex = 9;
+            TranslationInfo.Text = "English --> QWERTY";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.GrayText;
             ClientSize = new Size(800, 450);
+            Controls.Add(TranslationInfo);
+            Controls.Add(errorLabel);
+            Controls.Add(label2);
+            Controls.Add(ExitButton);
             Controls.Add(label1);
             Controls.Add(HelpButton);
-            Controls.Add(SwapButton);
             Controls.Add(EncryptButton);
             Controls.Add(Qwerty);
             Controls.Add(English);
             Name = "Form1";
             Text = "Qwerty Encryption";
+            Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }
@@ -112,8 +153,11 @@
         private TextBox English;
         private TextBox Qwerty;
         private Button EncryptButton;
-        private Button SwapButton;
         private Button HelpButton;
         private Label label1;
+        private Button ExitButton;
+        private Label label2;
+        private Label errorLabel;
+        private Label TranslationInfo;
     }
 }

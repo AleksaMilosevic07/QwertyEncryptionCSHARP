@@ -1,0 +1,17 @@
+C:\Users\KORISNIK\Documents\Dokumenti\projects\C#\QwertyEncryptionCSHARP\QwertyEncryption\bin\Debug\net8.0-windows\QwertyEncryption.exe
+C:\Users\KORISNIK\Documents\Dokumenti\projects\C#\QwertyEncryptionCSHARP\QwertyEncryption\bin\Debug\net8.0-windows\QwertyEncryption.deps.json
+C:\Users\KORISNIK\Documents\Dokumenti\projects\C#\QwertyEncryptionCSHARP\QwertyEncryption\bin\Debug\net8.0-windows\QwertyEncryption.runtimeconfig.json
+C:\Users\KORISNIK\Documents\Dokumenti\projects\C#\QwertyEncryptionCSHARP\QwertyEncryption\bin\Debug\net8.0-windows\QwertyEncryption.dll
+C:\Users\KORISNIK\Documents\Dokumenti\projects\C#\QwertyEncryptionCSHARP\QwertyEncryption\bin\Debug\net8.0-windows\QwertyEncryption.pdb
+C:\Users\KORISNIK\Documents\Dokumenti\projects\C#\QwertyEncryptionCSHARP\QwertyEncryption\obj\Debug\net8.0-windows\QwertyEncryption.Form1.resources
+C:\Users\KORISNIK\Documents\Dokumenti\projects\C#\QwertyEncryptionCSHARP\QwertyEncryption\obj\Debug\net8.0-windows\QwertyEncryption.csproj.GenerateResource.cache
+C:\Users\KORISNIK\Documents\Dokumenti\projects\C#\QwertyEncryptionCSHARP\QwertyEncryption\obj\Debug\net8.0-windows\QwertyEncryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KORISNIK\Documents\Dokumenti\projects\C#\QwertyEncryptionCSHARP\QwertyEncryption\obj\Debug\net8.0-windows\QwertyEncryption.AssemblyInfoInputs.cache
+C:\Users\KORISNIK\Documents\Dokumenti\projects\C#\QwertyEncryptionCSHARP\QwertyEncryption\obj\Debug\net8.0-windows\QwertyEncryption.AssemblyInfo.cs
+C:\Users\KORISNIK\Documents\Dokumenti\projects\C#\QwertyEncryptionCSHARP\QwertyEncryption\obj\Debug\net8.0-windows\QwertyEncryption.csproj.CoreCompileInputs.cache
+C:\Users\KORISNIK\Documents\Dokumenti\projects\C#\QwertyEncryptionCSHARP\QwertyEncryption\obj\Debug\net8.0-windows\QwertyEncryption.sourcelink.json
+C:\Users\KORISNIK\Documents\Dokumenti\projects\C#\QwertyEncryptionCSHARP\QwertyEncryption\obj\Debug\net8.0-windows\QwertyEncryption.dll
+C:\Users\KORISNIK\Documents\Dokumenti\projects\C#\QwertyEncryptionCSHARP\QwertyEncryption\obj\Debug\net8.0-windows\refint\QwertyEncryption.dll
+C:\Users\KORISNIK\Documents\Dokumenti\projects\C#\QwertyEncryptionCSHARP\QwertyEncryption\obj\Debug\net8.0-windows\QwertyEncryption.pdb
+C:\Users\KORISNIK\Documents\Dokumenti\projects\C#\QwertyEncryptionCSHARP\QwertyEncryption\obj\Debug\net8.0-windows\QwertyEncryption.genruntimeconfig.cache
+C:\Users\KORISNIK\Documents\Dokumenti\projects\C#\QwertyEncryptionCSHARP\QwertyEncryption\obj\Debug\net8.0-windows\ref\QwertyEncryption.dll
