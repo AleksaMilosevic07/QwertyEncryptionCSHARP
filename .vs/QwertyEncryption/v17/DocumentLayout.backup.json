@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\KORISNIK\\Documents\\Dokumenti\\projects\\C#\\QwertyEncryptionCSHARP\\QwertyEncryption\\",
+  "WorkspaceRootPath": "C:\\Users\\KORISNIK\\Documents\\Dokumenti\\projects\\C#\\QwertyEncryptionCSHARP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F44FAB42-80D9-4860-8102-568ECF48518D}|QwertyEncryption.csproj|c:\\users\\korisnik\\documents\\dokumenti\\projects\\c#\\qwertyencryptioncsharp\\qwertyencryption\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F44FAB42-80D9-4860-8102-568ECF48518D}|QwertyEncryption.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F44FAB42-80D9-4860-8102-568ECF48518D}|QwertyEncryption.csproj|c:\\users\\korisnik\\documents\\dokumenti\\projects\\c#\\qwertyencryptioncsharp\\qwertyencryption\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F44FAB42-80D9-4860-8102-568ECF48518D}|QwertyEncryption.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F44FAB42-80D9-4860-8102-568ECF48518D}|QwertyEncryption.csproj|c:\\users\\korisnik\\documents\\dokumenti\\projects\\c#\\qwertyencryptioncsharp\\qwertyencryption\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F44FAB42-80D9-4860-8102-568ECF48518D}|QwertyEncryption.csproj|c:\\users\\korisnik\\documents\\dokumenti\\projects\\c#\\qwertyencryptioncsharp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F44FAB42-80D9-4860-8102-568ECF48518D}|QwertyEncryption.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F44FAB42-80D9-4860-8102-568ECF48518D}|QwertyEncryption.csproj|c:\\users\\korisnik\\documents\\dokumenti\\projects\\c#\\qwertyencryptioncsharp\\qwertyencryption\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F44FAB42-80D9-4860-8102-568ECF48518D}|QwertyEncryption.csproj|C:\\Users\\KORISNIK\\Documents\\Dokumenti\\projects\\C#\\QwertyEncryptionCSHARP\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F44FAB42-80D9-4860-8102-568ECF48518D}|QwertyEncryption.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44FAB42-80D9-4860-8102-568ECF48518D}|QwertyEncryption.csproj|C:\\Users\\KORISNIK\\Documents\\Dokumenti\\projects\\C#\\QwertyEncryptionCSHARP\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F44FAB42-80D9-4860-8102-568ECF48518D}|QwertyEncryption.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F44FAB42-80D9-4860-8102-568ECF48518D}|QwertyEncryption.csproj|c:\\users\\korisnik\\documents\\dokumenti\\projects\\c#\\qwertyencryptioncsharp\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F44FAB42-80D9-4860-8102-568ECF48518D}|QwertyEncryption.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,28 +26,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\KORISNIK\\Documents\\Dokumenti\\projects\\C#\\QwertyEncryptionCSHARP\\QwertyEncryption\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\KORISNIK\\Documents\\Dokumenti\\projects\\C#\\QwertyEncryptionCSHARP\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\KORISNIK\\Documents\\Dokumenti\\projects\\C#\\QwertyEncryptionCSHARP\\QwertyEncryption\\Form2.cs",
+              "ToolTip": "C:\\Users\\KORISNIK\\Documents\\Dokumenti\\projects\\C#\\QwertyEncryptionCSHARP\\Form2.cs",
               "RelativeToolTip": "Form2.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBUAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T21:44:28.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\KORISNIK\\Documents\\Dokumenti\\projects\\C#\\QwertyEncryptionCSHARP\\QwertyEncryption\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\KORISNIK\\Documents\\Dokumenti\\projects\\C#\\QwertyEncryptionCSHARP\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\KORISNIK\\Documents\\Dokumenti\\projects\\C#\\QwertyEncryptionCSHARP\\QwertyEncryption\\Form2.cs [Design]",
+              "ToolTip": "C:\\Users\\KORISNIK\\Documents\\Dokumenti\\projects\\C#\\QwertyEncryptionCSHARP\\Form2.cs [Design]",
               "RelativeToolTip": "Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T21:32:29.05Z",
@@ -55,24 +55,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\KORISNIK\\Documents\\Dokumenti\\projects\\C#\\QwertyEncryptionCSHARP\\QwertyEncryption\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\KORISNIK\\Documents\\Dokumenti\\projects\\C#\\QwertyEncryptionCSHARP\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\KORISNIK\\Documents\\Dokumenti\\projects\\C#\\QwertyEncryptionCSHARP\\QwertyEncryption\\Form1.cs",
+              "ToolTip": "C:\\Users\\KORISNIK\\Documents\\Dokumenti\\projects\\C#\\QwertyEncryptionCSHARP\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAIwGcAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAswEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T19:31:07.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\KORISNIK\\Documents\\Dokumenti\\projects\\C#\\QwertyEncryptionCSHARP\\QwertyEncryption\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\KORISNIK\\Documents\\Dokumenti\\projects\\C#\\QwertyEncryptionCSHARP\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\KORISNIK\\Documents\\Dokumenti\\projects\\C#\\QwertyEncryptionCSHARP\\QwertyEncryption\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\KORISNIK\\Documents\\Dokumenti\\projects\\C#\\QwertyEncryptionCSHARP\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T19:21:55.58Z",

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KORISNIK\\Documents\\Dokumenti\\projects\\C#\\QwertyEncryptionCSHARP\\QwertyEncryption\\QwertyEncryption.csproj",
+      "projectUniqueName": "C:\\Users\\KORISNIK\\Documents\\Dokumenti\\projects\\C#\\QwertyEncryptionCSHARP\\QwertyEncryption.csproj",
       "projectName": "QwertyEncryption",
-      "projectPath": "C:\\Users\\KORISNIK\\Documents\\Dokumenti\\projects\\C#\\QwertyEncryptionCSHARP\\QwertyEncryption\\QwertyEncryption.csproj",
+      "projectPath": "C:\\Users\\KORISNIK\\Documents\\Dokumenti\\projects\\C#\\QwertyEncryptionCSHARP\\QwertyEncryption.csproj",
       "packagesPath": "C:\\Users\\KORISNIK\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KORISNIK\\Documents\\Dokumenti\\projects\\C#\\QwertyEncryptionCSHARP\\QwertyEncryption\\obj\\",
+      "outputPath": "C:\\Users\\KORISNIK\\Documents\\Dokumenti\\projects\\C#\\QwertyEncryptionCSHARP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

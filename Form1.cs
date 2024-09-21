@@ -33,14 +33,11 @@ namespace QwertyEncryption
             Translation.Clear();
             errorLabel.Text = "";
 
-            // Check if both fields are empty
             if (string.IsNullOrEmpty(EnglishText) && string.IsNullOrEmpty(QwertyText))
             {
                 errorLabel.Text = "Both fields are empty!";
-                return; // Exit early if both fields are empty
+                return; 
             }
-
-            // If EnglishText is not empty, process it
             if (!string.IsNullOrEmpty(EnglishText))
             {
                 try
@@ -60,7 +57,7 @@ namespace QwertyEncryption
                         }
                     }
                     Qwerty.Text = Translation.ToString();
-                    return; // Exit after processing EnglishText
+                    return; 
                 }
                 catch (Exception ex)
                 {
@@ -68,7 +65,6 @@ namespace QwertyEncryption
                 }
             }
 
-            // If EnglishText is empty, process QwertyText
             if (!string.IsNullOrEmpty(QwertyText))
             {
                 try

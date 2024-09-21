@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QwertyEncryption")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41b0d5d3d40032d5374a2b7f374820100b0f6aaa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+645b0dc93cdbc7ad8df4aad390d901c4fb7ec487")]
 [assembly: System.Reflection.AssemblyProductAttribute("QwertyEncryption")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QwertyEncryption")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
