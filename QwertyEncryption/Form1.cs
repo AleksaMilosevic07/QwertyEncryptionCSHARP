@@ -100,7 +100,8 @@ namespace QwertyEncryption
 
         private void HelpButton_Click(object sender, EventArgs e)
         {
-
+            Form2 MyForm = new Form2();
+            MyForm.Show();
         }
 
         private void ExitButton_Click(object sender, EventArgs e)

@@ -36,7 +36,6 @@
             ExitButton = new Button();
             label2 = new Label();
             errorLabel = new Label();
-            TranslationInfo = new Label();
             SuspendLayout();
             // 
             // English
@@ -117,22 +116,12 @@
             errorLabel.Size = new Size(0, 23);
             errorLabel.TabIndex = 8;
             // 
-            // TranslationInfo
-            // 
-            TranslationInfo.AutoSize = true;
-            TranslationInfo.Location = new Point(290, 136);
-            TranslationInfo.Name = "TranslationInfo";
-            TranslationInfo.Size = new Size(114, 15);
-            TranslationInfo.TabIndex = 9;
-            TranslationInfo.Text = "English --> QWERTY";
-            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.GrayText;
             ClientSize = new Size(800, 450);
-            Controls.Add(TranslationInfo);
             Controls.Add(errorLabel);
             Controls.Add(label2);
             Controls.Add(ExitButton);
@@ -158,6 +147,5 @@
         private Button ExitButton;
         private Label label2;
         private Label errorLabel;
-        private Label TranslationInfo;
     }
 }

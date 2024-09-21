@@ -15,3 +15,4 @@ C:\Users\KORISNIK\Documents\Dokumenti\projects\C#\QwertyEncryptionCSHARP\QwertyE
 C:\Users\KORISNIK\Documents\Dokumenti\projects\C#\QwertyEncryptionCSHARP\QwertyEncryption\obj\Debug\net8.0-windows\QwertyEncryption.pdb
 C:\Users\KORISNIK\Documents\Dokumenti\projects\C#\QwertyEncryptionCSHARP\QwertyEncryption\obj\Debug\net8.0-windows\QwertyEncryption.genruntimeconfig.cache
 C:\Users\KORISNIK\Documents\Dokumenti\projects\C#\QwertyEncryptionCSHARP\QwertyEncryption\obj\Debug\net8.0-windows\ref\QwertyEncryption.dll
+C:\Users\KORISNIK\Documents\Dokumenti\projects\C#\QwertyEncryptionCSHARP\QwertyEncryption\obj\Debug\net8.0-windows\QwertyEncryption.Form2.resources
